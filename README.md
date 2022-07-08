@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi, I'm Konstantin! 🦉
 
-<!--
-**KonstantinosVasilopoulos/KonstantinosVasilopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+22 years old CS student from Athens, Greece. 🇬🇷
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Development tools & frameworks
+
+![android](images/android.svg) ![django framework](images/django.svg)![html5](images/html.svg) ![css3](images/css.svg) ![reactjs](images/reactjs.svg) ![typescript](images/typescript.svg) ![json](images/json.svg)
+
+#### Programming languages
+![java](images/java.svg) ![python](images/python.svg) ![c++](images/cpp.svg) ![rust](images/rust.svg) ![javascript](images/javascript.svg)
+
+#### Productivity & tools
+![git](images/git.svg) ![linux](images/linux.svg) ![pop!_os](images/popos.svg) ![markdown](images/markdown.svg) ![vs code](images/vscode.svg) ![open source](images/open-source.svg)
+
+# Notable projects
+
+[![dryer ui](images/dryer_ui_project.png)](https://github.com/KonstantinosVasilopoulos/dryer_ui)
+
+[![aueb processor](images/aueb_processor_project.png)](https://github.com/KonstantinosVasilopoulos/courses_website)
+
+[![peer-to-peer network](images/p2p_project.png)](https://github.com/KonstantinosVasilopoulos/P2P)
+
+[![courses website](images/courses_website_project.png)](https://github.com/KonstantinosVasilopoulos/aueb_processor)
+
+# Hobbies
+
+* Mountain climbing 🧗⛰️
+* Language learning 🇩🇪🇯🇵
+* Chess ♕♜
+* Gaming 🎮🌃
+* History buff 🏺📜
