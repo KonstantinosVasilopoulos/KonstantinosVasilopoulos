@@ -27,7 +27,7 @@
 # Hobbies
 
 * Mountain climbing 🧗⛰️
-* Language learning 🇩🇪🇯🇵
+* Language learning 🇩🇪🇹🇷🇯🇵
 * Chess ♕♜
 * Gaming 🎮🌃
 * History buff 🏺📜
