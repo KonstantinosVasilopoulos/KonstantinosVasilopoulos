@@ -1,6 +1,8 @@
 # Hi, I'm Konstantin! 🦉
 
-22 years old CS student from Athens, Greece. 🇬🇷
+22 years old CS student from Athens, Greece. 🇬🇷\
+4th year of studies towards a CS degree at [Athens University of Economics and Business](https://www.aueb.gr/). 📚\
+My [LinkedIn profile](https://www.linkedin.com/in/konstantinos-vasilopoulos-b0a144223/). 🔗
 
 # Skills
 
