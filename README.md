@@ -22,11 +22,11 @@ My [LinkedIn profile](https://www.linkedin.com/in/konstantinos-vasilopoulos-b0a1
 
 [![peer-to-peer network](images/p2p_project.png)](https://github.com/KonstantinosVasilopoulos/P2P)
 
-[![courses website](images/courses_website_project.png)](https://github.com/KonstantinosVasilopoulos/aueb_processor)
+[![courses website](images/courses_website_project.png)](https://github.com/KonstantinosVasilopoulos/courses_website)
 
 [![codesignal challenges](images/codesignal_challenges_project.png)](https://github.com/KonstantinosVasilopoulos/codesignal_challenges)
 
-[![aueb processor](images/aueb_processor_project.png)](https://github.com/KonstantinosVasilopoulos/courses_website)
+[![aueb processor](images/aueb_processor_project.png)](https://github.com/KonstantinosVasilopoulos/aueb_processor)
 
 # Hobbies
 
